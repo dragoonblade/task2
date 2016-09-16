@@ -23,11 +23,11 @@
   					</div>
   					<div class="form-group">
   						<button id="button1" class="btn btn-success">Login</button>
-  						<a href="forgot.php"><button id="button2" class="btn btn-danger">Forgot Password</button></a>
+  						<button id="button2" class="btn btn-danger" formaction="forgot.php">Forgot Password</button>
   					</div>
   					<div class="form-group">
   						<label id="input3" class="form-group" for="password">New User?</label>
-  						<a href="new.php>"><button id="button3" class="btn btn-info">Sign Up</button></a>
+  						<a href="new.php" class="btn btn-primary">Sign Up</a>
   					</div>
   				</form>
   			</div>

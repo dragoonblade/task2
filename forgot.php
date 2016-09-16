@@ -22,7 +22,7 @@
             </div><br><br><br><br>
   					<div class="form-group">
   						<label id="input3" class="form-group" for="password">New User?</label>
-  						<button id="button3" class="btn btn-info">Sign Up</button>
+  						<button id="button3" class="btn btn-info" formaction="new.php">Sign Up</button>
   					</div>
   				</form>
   			</div>

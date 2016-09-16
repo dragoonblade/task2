@@ -34,7 +34,7 @@
             </div><br><br><br>
   					<div class="form-group">
   						<label id="input3" class="form-group" for="password">Have an Account?</label>
-  						<button id="button3" class="btn btn-info">Login</button>
+  						<button id="button3" class="btn btn-info" formaction="index.php">Login</button>
   					</div>
   				</form>
   			</div>
