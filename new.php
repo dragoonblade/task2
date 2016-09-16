@@ -31,8 +31,8 @@
             </div>
             <div class="form-group">
               <button id="button3" class="btn btn-success">Done!</button>
-            </div><br><br><br>
-  					<div class="form-group">
+            </div>
+  					<div class="form-group" style="margin-top:50px">
   						<label id="input3" class="form-group" for="password">Have an Account?</label>
   						<button id="button3" class="btn btn-info" formaction="index.php">Login</button>
   					</div>
